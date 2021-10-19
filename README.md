@@ -1,5 +1,5 @@
 # Paraphrasing And Text Information
-paraphrasing:: GPT-2 (Transformers) \
+Paraphrasing:: GPT-2 (Transformers) \
 Text Information:: Universal Sentence Encoder(Tensorflow Hub)
 
 Dataset :: PAWS, MSRT-A
